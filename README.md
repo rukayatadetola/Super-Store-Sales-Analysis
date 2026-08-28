@@ -14,4 +14,7 @@ The goal of this project is to transform raw Superstore sales data into meaningf
 2. Excel
 3. Power BI
 
-## Data Overview
+## Excel for Data Formatting & Pre-Processing
+
+
+
