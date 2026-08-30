@@ -11,11 +11,12 @@ The goal of this project is to transform raw Superstore sales data into meaningf
 
 ## Tools & Technologies
 1. Python
-2. Excel
+2. Excel(data formatting & pre-processing)
 3. Power BI
 
 ## Excel for Data Formatting & Pre-Processing
 - Cleaned missing values and duplicates.
+- 
 
 ![SuperStore Analysis Dataset on Excel](https://github.com/rukayatadetola/Super-Store-Sales-Analysis/blob/main/Screenshot%202026-08-28%20181838.jpg)
 
