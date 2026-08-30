@@ -15,7 +15,7 @@ The goal of this project is to transform raw Superstore sales data into meaningf
 3. Power BI
 
 ## Excel for Data Formatting & Pre-Processing
-#1 Cleaned missing values and duplicates.
+- Cleaned missing values and duplicates.
 
 ![SuperStore Analysis Dataset on Excel](https://github.com/rukayatadetola/Super-Store-Sales-Analysis/blob/main/Screenshot%202026-08-28%20181838.jpg)
 
