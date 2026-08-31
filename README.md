@@ -1,7 +1,7 @@
 # Super Store Sales Analysis | Revenue, Trends and Insights
 Excel + Python + Power BI Project
 ## Table of Content
-
+1. [Project Overview](##1-Project-Overview)
 ## Project Overview
 This project is an end-to-end data analytics project focused on analyzing sales performance, profitability, customer segments, product categories, shipping methods, and regional performance.
 
