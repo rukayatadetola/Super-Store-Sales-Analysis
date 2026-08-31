@@ -5,7 +5,7 @@ Excel + Python + Power BI Project
 2. [Tools & Technologies](##-Tools-Technologies)
 
 ## Project Overview
-This project is an end-to-end data analytics project focused on analyzing sales performance, profitability, customer segments, product categories, shipping methods, and regional performance.
+This project analyzes sales performance, profitability, customer segments, product categories, shipping methods, and regional performance.
 
 The project combines Python for data cleaning with Power BI for interactive data visualization and dashboard development.
 
