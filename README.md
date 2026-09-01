@@ -28,5 +28,13 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-
+```
+```Python
 df= pd.read_csv("C:\\Users\\Rukky\\Documents\\Sample_Superstore.csv",  encoding="cp1252")
+
+df
+```
+```Python
+--- Handled Missing Values---
+df.isnull().sum()
+```
