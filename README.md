@@ -24,5 +24,8 @@ The goal of this project is to transform raw Superstore sales data into meaningf
 
 ### Analysis Breakdown 
 ```Python
-<img width="828" height="652" alt="image" src="https://github.com/user-attachments/assets/8f2d44b6-0068-45e4-82ba-f4d5c3ae26ce" />
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
 
