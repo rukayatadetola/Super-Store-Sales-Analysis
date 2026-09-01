@@ -18,7 +18,7 @@ The goal of this project is to transform raw Superstore sales data into meaningf
 
 ## Excel for Data Formatting & Pre-Processing
 - Cleaned missing values and duplicates.
-- 
+- Excel used for quick and efficient pre-processing before import it to jupyter notebook
 
 ![SuperStore Analysis Dataset on Excel](https://github.com/rukayatadetola/Super-Store-Sales-Analysis/blob/main/Screenshot%202026-08-28%20181838.jpg)
 
