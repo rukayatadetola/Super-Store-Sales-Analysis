@@ -38,3 +38,16 @@ df
 --- Handled Missing Values---
 df.isnull().sum()
 ```
+```Python
+--- Checked Data Type(dtypes)---
+df.dtypes
+```
+### Feature Enginnering
+``` Python
+--- Data Types Conversion
+Converting the date columns from their original format into Pandas datetime objects.---
+--- ORDER DATE COLUMN---
+df['Order Date']= pd.to_datetime(df['Order Date'])
+
+--- SHIP DATE COLUMN---
+df['Order Date']= pd.to_datetime(df['Order Date'])
