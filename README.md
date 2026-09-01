@@ -46,8 +46,17 @@ df.dtypes
 ``` Python
 --- Data Types Conversion
 Converting the date columns from their original format into Pandas datetime objects.---
+
 --- ORDER DATE COLUMN---
 df['Order Date']= pd.to_datetime(df['Order Date'])
 
 --- SHIP DATE COLUMN---
 df['Order Date']= pd.to_datetime(df['Order Date'])
+
+--- Extracted Order Year And Order Month column From Order Date column----
+
+---  Create Order Year Column ---
+df['Order Year']= df['Order Date'].dt.year
+
+---  Create Order Month Column ---
+df['Order month']= df['Order Date'].dt.month
