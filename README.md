@@ -63,4 +63,4 @@ df['Order month']= df['Order Date'].dt.month
 ```
 
 ## Power BI
-![SuperStore Analysis Dashboard on Power BI Visualization]()
+![SuperStore Analysis Dashboard on Power BI Visualization](https://github.com/rukayatadetola/Super-Store-Sales-Analysis/blob/main/Screenshot%202026-09-01%20103341.jpg)
