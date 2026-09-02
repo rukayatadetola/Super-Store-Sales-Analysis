@@ -15,14 +15,14 @@ The goal of this project is to transform raw Superstore sales data into meaningf
 
 The analysis was designed to answer key business questions such as:
 
-What is the company's overall sales and profit performance?
-Which regions generate the highest sales?
-Which customer segments contribute the most to revenue?
-Which product categories and sub-categories perform best?
-How do sales and profit change throughout the year?
-Which shipping mode is used most frequently?
-Which states contribute significantly to sales and profit?
-Are there areas where high sales do not translate into strong profitability?
+- What is the company's overall sales and profit performance?
+- Which regions generate the highest sales?
+- Which customer segments contribute the most to revenue?
+- Which product categories and sub-categories perform best?
+- How do sales and profit change throughout the year?
+- Which shipping mode is used most frequently?
+- Which states contribute significantly to sales and profit?
+
 
 ## Tools & Technologies
 
@@ -86,6 +86,7 @@ Central
 East
 South
 West
+
 The dashboard combines KPI cards, charts, geographic analysis, and interactive filters into a single reporting interface.
 
 ![SuperStore Analysis Dashboard on Power BI Visualization](https://github.com/rukayatadetola/Super-Store-Sales-Analysis/blob/main/Screenshot%202026-09-01%20103341.jpg)
