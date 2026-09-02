@@ -1,14 +1,14 @@
 # Super Store Sales Analysis | Revenue, Trends and Insights
 Excel + Python + Power BI Project
 ## Table of Content
-1. [Project Overview](##1-Project-Overview)
-2. [Business Objectives](##2-Business-Objectives)
-3. [Tools & Technologies](##3-Tools-&-Technologies)
-4. [Excel for Data Formatting & Pre-Processing](##4-Excel-for-Data-Formatting-&-Pre-Processing)
-5. [ Python Analysis Breakdown](##5-Python-Analysis-Breakdown)
-6. [Power BI Dashboard](##6-Power-BI-Dashboard)
-7. [Results/Findings](##7-Results-/-Findings)
-8. [Recommendations](##8-Recommendations)
+- [Project Overview](#project-pverview)
+- [Business Objectives](#business-objectives)
+- [Tools & Technologies](#tools-&-technologies)
+- [Excel for Data Formatting & Pre-Processing](#excel-for-data-formatting-&-pre-processing)
+- [Python Analysis Breakdown](#python-analysis-breakdown)
+- [Power BI Dashboard](#power-bi-dashboard)
+- [Results/Findings](#results-/-findings)
+- [Recommendations](#recommendations)
 
 ## Project Overview
 This project analyzes sales performance, profitability, customer segments, product categories, shipping methods, and regional performance.
