@@ -3,7 +3,7 @@ Excel + Python + Power BI Project
 ## Table of Content
 1. [Project Overview](##1-Project-Overview)
 2. [Business Objectives](##2-Business-Objectives)
-3. [Tools & Technologies](##3-Tools-Technologies)
+3. [Tools & Technologies](##3-Tools-&-Technologies)
 4. [Excel for Data Formatting & Pre-Processing](##4-Excel-for-Data-Formatting-&-Pre-Processing)
 5. [ Python Analysis Breakdown](##5-Python-Analysis-Breakdown)
 6. [Power BI Dashboard](##6-Power-BI-Dashboard)
