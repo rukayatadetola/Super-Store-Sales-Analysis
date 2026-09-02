@@ -7,7 +7,7 @@ Excel + Python + Power BI Project
 - [Excel for Data Formatting & Pre-Processing](#excel-for-data-formatting-&-pre-processing)
 - [Python Analysis Breakdown](#python-analysis-breakdown)
 - [Power BI Dashboard](#power-bi-dashboard)
-- [Results/Findings](#results-/-findings)
+- [Results/Findings](#results/findings)
 - [Recommendations](#recommendations)
 
 ## Project Overview
