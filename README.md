@@ -86,10 +86,10 @@ df['Order month']= df['Order Date'].dt.month
 The Power BI dashboard was designed to provide an interactive view of business performance.
 
 Users can interact with the dashboard through the Region filter, allowing them to explore performance for:
-Central
-East 
-South
-West
+######Central
+######East 
+######South
+######West
 
 The dashboard combines KPI cards, charts, geographic analysis, and interactive filters into a single reporting interface.
 
