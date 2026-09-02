@@ -96,7 +96,7 @@ Users can interact with the dashboard through the Region filter, allowing them t
 The dashboard combines KPI cards, charts, geographic analysis, and interactive filters into a single reporting interface.
 
 ![SuperStore Analysis Dashboard on Power BI Visualization](https://github.com/rukayatadetola/Super-Store-Sales-Analysis/blob/main/Screenshot%202026-09-01%20103341.jpg)
-![SuperStore Analysis Dashboard on Power BI Visualization]()
+![SuperStore Analysis Dashboard on Power BI Visualization](https://github.com/rukayatadetola/Super-Store-Sales-Analysis/blob/main/Screenshot%202026-09-02%20151113.jpg)
 
 ## Results/Findings
 The analysis provides an overview of sales, profitability, customer segments, product performance, regional performance, and shipping activity.
