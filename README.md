@@ -7,6 +7,8 @@ Excel + Python + Power BI Project
 4. [Excel for Data Formatting & Pre-Processing](##4-Excel-for-Data-Formatting-&-Pre-Processing)
 5. [ Python Analysis Breakdown](##5-Python-Analysis-Breakdown)
 6. [Power BI Dashboard](##6-Power-BI-Dashboard)
+7. [Results/Findings](##7-Results-/-Findings)
+8. [Recommendations](##8-Recommendations)
 
 ## Project Overview
 This project analyzes sales performance, profitability, customer segments, product categories, shipping methods, and regional performance.
@@ -94,7 +96,7 @@ Users can interact with the dashboard through the Region filter, allowing them t
 The dashboard combines KPI cards, charts, geographic analysis, and interactive filters into a single reporting interface.
 
 ![SuperStore Analysis Dashboard on Power BI Visualization](https://github.com/rukayatadetola/Super-Store-Sales-Analysis/blob/main/Screenshot%202026-09-01%20103341.jpg)
-
+![SuperStore Analysis Dashboard on Power BI Visualization]()
 
 ## Results/Findings
 The analysis provides an overview of sales, profitability, customer segments, product performance, regional performance, and shipping activity.
