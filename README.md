@@ -25,8 +25,9 @@ Which states contribute significantly to sales and profit?
 Are there areas where high sales do not translate into strong profitability?
 
 ## Tools & Technologies
+
 1. **Python** (Python was used for data preparation, cleaning, exploration, and analysis.)
-2. **Excel**(data formatting & pre-processing)
+2. **Excel**(Data formatting, cleaning & pre-processing)
 3. **Power BI** (To create the interactive dashboard and communicate the findings visually.)
 
 ## Excel for Data Formatting & Pre-Processing
@@ -75,5 +76,16 @@ df['Order Year']= df['Order Date'].dt.year
 df['Order month']= df['Order Date'].dt.month
 ```
 
-## Power BI
+## Power BI DASHBOARD
+
+The Power BI dashboard was designed to provide an interactive view of business performance.
+
+Users can interact with the dashboard through the Region filter, allowing them to explore performance for:
+
+Central
+East
+South
+West
+The dashboard combines KPI cards, charts, geographic analysis, and interactive filters into a single reporting interface.
+
 ![SuperStore Analysis Dashboard on Power BI Visualization](https://github.com/rukayatadetola/Super-Store-Sales-Analysis/blob/main/Screenshot%202026-09-01%20103341.jpg)
