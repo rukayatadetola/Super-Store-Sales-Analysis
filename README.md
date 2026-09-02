@@ -11,10 +11,23 @@ The project combines Python for data cleaning with Power BI for interactive data
 
 The goal of this project is to transform raw Superstore sales data into meaningful business insights that can help stakeholders understand what is driving sales and profit, which products and regions perform best, and where there are opportunities for improvement.
 
+## Business Objectives
+
+The analysis was designed to answer key business questions such as:
+
+What is the company's overall sales and profit performance?
+Which regions generate the highest sales?
+Which customer segments contribute the most to revenue?
+Which product categories and sub-categories perform best?
+How do sales and profit change throughout the year?
+Which shipping mode is used most frequently?
+Which states contribute significantly to sales and profit?
+Are there areas where high sales do not translate into strong profitability?
+
 ## Tools & Technologies
-1. Python
-2. Excel(data formatting & pre-processing)
-3. Power BI
+1. **Python** (Python was used for data preparation, cleaning, exploration, and analysis.)
+2. **Excel**(data formatting & pre-processing)
+3. **Power BI** (To create the interactive dashboard and communicate the findings visually.)
 
 ## Excel for Data Formatting & Pre-Processing
 - Cleaned missing values and duplicates.
