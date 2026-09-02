@@ -94,3 +94,23 @@ Users can interact with the dashboard through the Region filter, allowing them t
 The dashboard combines KPI cards, charts, geographic analysis, and interactive filters into a single reporting interface.
 
 ![SuperStore Analysis Dashboard on Power BI Visualization](https://github.com/rukayatadetola/Super-Store-Sales-Analysis/blob/main/Screenshot%202026-09-01%20103341.jpg)
+
+
+## Results/Findings
+The analysis provides an overview of sales, profitability, customer segments, product performance, regional performance, and shipping activity.
+
+Key Findings
+- The business generated approximately $2M in total sales from 5,009 orders and 38K units sold.
+- Total profit was approximately $286K, indicating that the business generated a positive return from its sales.
+- The West region recorded the highest share of sales (32%), followed by East (30%), Central (22%), and South (17%).
+- The Consumer segment contributed the largest share of sales (51%), followed by Corporate (31%) and Home Office (19%).
+- Technology was the highest-selling category, generating approximately $0.84M, followed by Furniture ($0.74M) and Office Supplies ($0.72M).
+- Phones and Chairs were among the leading sub-categories, each generating approximately $0.33M in sales.
+- Standard Class was the dominant shipping method, generating the highest sales among the available shipping modes.
+- Sales and profit showed stronger performance toward the later months of the year, suggesting potential seasonal demand.
+
+## Recommendations 
+
+- Expands successful strategies from the west region to lower-preforming regions, particularly the South.
+- Develop targeted promotions, loyalty programs, personalized offers, and repeat-purchase campaigns for Consumer customers.
+- Analyze shipping cost, delivery time, order volume, and customer satisfaction by shipping mode to determine the most efficient shipping strategy.
